@@ -2,28 +2,28 @@ Unlisted youtube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/ICCTA2023/Submission/Summary/6
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Bangla Sarcasm Detection: A Deep Learning Approach
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
 
 Paper submission date (to workshop/conference):
-25 October 1999
+20 December 2022
 
 Paper submission ID: (received) from conference/workshop
-1341234
+6
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Langauge Processing: Techniques and Practices
+2023 9th International Conference on Computer Technology Applications
 
 Conference URL:
-http://confsite/...
+http://www.iccta.net/
 
 Group Number:
-0
+16
 
 Group Members:
 20101118 Name Niloy Farhan
