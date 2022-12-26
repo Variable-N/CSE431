@@ -14,7 +14,7 @@ Paper submission date (to workshop/conference):
 20 December 2022
 
 Paper submission ID: (received) from conference/workshop
-6
+AS11006
 
 Conference Name:
 2023 9th International Conference on Computer Technology Applications
