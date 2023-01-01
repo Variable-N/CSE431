@@ -5,7 +5,7 @@ Conference submitted paper / paper submission / login Link:
 Yet to submit in a conference
 
 Paper title:
-Bangla Sarcasm Detection: A Deep Learning Approach
+Ensemble of Gated Recurrent Unit and Convolutional Neural Network for Sarcasm Detection in Bangla
 
 Paper presentation (anyone can view without login):
 Paper is in the github.
